@@ -1,0 +1,5 @@
+C:\Users\boris\OneDrive\Рабочий стол\Training.exe
+C:\Users\boris\OneDrive\Рабочий стол\Training.dll
+C:\Users\boris\OneDrive\Рабочий стол\Training.deps.json
+C:\Users\boris\OneDrive\Рабочий стол\Training.runtimeconfig.json
+C:\Users\boris\OneDrive\Рабочий стол\Training.pdb

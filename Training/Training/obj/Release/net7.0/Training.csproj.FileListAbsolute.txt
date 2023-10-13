@@ -1,0 +1,14 @@
+C:\Users\boris\source\repos\Training\Training\bin\Release\net7.0\Training.exe
+C:\Users\boris\source\repos\Training\Training\bin\Release\net7.0\Training.deps.json
+C:\Users\boris\source\repos\Training\Training\bin\Release\net7.0\Training.runtimeconfig.json
+C:\Users\boris\source\repos\Training\Training\bin\Release\net7.0\Training.dll
+C:\Users\boris\source\repos\Training\Training\bin\Release\net7.0\Training.pdb
+C:\Users\boris\source\repos\Training\Training\obj\Release\net7.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\source\repos\Training\Training\obj\Release\net7.0\Training.AssemblyInfoInputs.cache
+C:\Users\boris\source\repos\Training\Training\obj\Release\net7.0\Training.AssemblyInfo.cs
+C:\Users\boris\source\repos\Training\Training\obj\Release\net7.0\Training.csproj.CoreCompileInputs.cache
+C:\Users\boris\source\repos\Training\Training\obj\Release\net7.0\Training.dll
+C:\Users\boris\source\repos\Training\Training\obj\Release\net7.0\refint\Training.dll
+C:\Users\boris\source\repos\Training\Training\obj\Release\net7.0\Training.pdb
+C:\Users\boris\source\repos\Training\Training\obj\Release\net7.0\Training.genruntimeconfig.cache
+C:\Users\boris\source\repos\Training\Training\obj\Release\net7.0\ref\Training.dll

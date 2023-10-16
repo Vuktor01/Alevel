@@ -1,8 +1,13 @@
 ﻿using ClassLibrary1;
-
-var randomArray = Class1.GenerateRandomArray(20, 1, 1000);
-Class1.FillterArray(randomArray);
-
-Console.WriteLine("Случайный массив:");
-
+int count = 0;
+var randomArray = Class1.GenerateRandomArray(20, 1, 500);
+for (int i = 0; i < randomArray.Length; i++)
+{
+    if (-100 <= randomArray[i] && randomArray[i] <= 100)
+    {
+        count++;
+    }
+}
 Class1.PrintArray(randomArray);
+Console.WriteLine(count);
+

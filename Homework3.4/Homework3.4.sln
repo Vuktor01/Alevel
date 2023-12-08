@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework3.4 ConsoleApp", "Homework3.4 ConsoleApp\Homework3.4 ConsoleApp.csproj", "{BCDA9901-5F03-4D18-8698-45F61E7A3536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQConsoleApp", "LinQConsoleApp\LinQConsoleApp.csproj", "{E7B10783-352F-4C74-B68A-FCCA8CFD089C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDA9901-5F03-4D18-8698-45F61E7A3536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDA9901-5F03-4D18-8698-45F61E7A3536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDA9901-5F03-4D18-8698-45F61E7A3536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDA9901-5F03-4D18-8698-45F61E7A3536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7B10783-352F-4C74-B68A-FCCA8CFD089C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B10783-352F-4C74-B68A-FCCA8CFD089C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B10783-352F-4C74-B68A-FCCA8CFD089C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B10783-352F-4C74-B68A-FCCA8CFD089C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46571F4E-A315-431B-A6DD-15574885C756}
+	EndGlobalSection
+EndGlobal
